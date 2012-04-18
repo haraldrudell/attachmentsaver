@@ -1,0 +1,21 @@
+{
+	"name": "attachmentsaver",
+	"description": "Receives local email saving pdf attachments to Desktop. by Harald Rudell",
+	"version": "0.0.2",
+	"contributors": [
+		{
+			"name": "Harald Rudell",
+			"email": "harald@allgoodapps.com",
+			"web": "http://blog.haraldrudell.com"
+		}
+	],
+	"repository": {
+		"type" : "git",
+		"url" : "git://github.com/haraldrudell/attachmentsaver.git"
+	},
+	"dependencies": {
+		"simplesmtp": "",
+		"mailparser": ""
+	},
+	"main" : "./app.js"	
+}
