@@ -8,10 +8,27 @@ This program also takes away the pain of entering an email subject line using a 
 
 # How to Get It
 
+## Install
 * install from github to you machine
-* run app.js
-* setup your Dell 2335dn printer to sending mail to port 5000 of the machine's subnet ip
-* Scans show up on your Desktop
+* have node avilable
+
+## Run
+```
+$ node app.js
+
+
+=== 2012-04-23 19:45:46 AttachmentSaver starting
+Application AttachmentSaver on node v0.6.14 available on ips[192.168.1.15] port 5000 saving to folder /home/foxyboy/Desktop.
+```
+
+the local ip address of your machine is printed. setup your Dell 2335dn printer to sending mail to port 5000 of the machine's subnet ip. This can only be done from the web interface.
+
+* browse to the printer
+* click Email Settings
+* Fill in SMTP Server and Port
+* click Submit
+
+Scans show up on your Desktop
 
 # running
 
@@ -31,3 +48,5 @@ end of message
 Happiness!
 
 Written by Harald Rudell in April, 2012
+
+![Dell setup](./style/dell.png)

@@ -1,7 +1,8 @@
 {
 	"name": "attachmentsaver",
 	"description": "Receives local email saving pdf attachments to Desktop. by Harald Rudell",
-	"version": "0.0.2",
+	"author": "Harald Rudell <harald@allgoodapps.com>",
+	"version": "0.0.3",
 	"contributors": [
 		{
 			"name": "Harald Rudell",
