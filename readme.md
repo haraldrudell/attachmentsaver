@@ -30,18 +30,13 @@ the local ip address of your machine is printed. setup your Dell 2335dn printer 
 
 Scans show up on your Desktop
 
-# running
+## scanning
 
-```
-$ node app.js 
-
-
-=== 2012-04-17 21:29:50 AttachmentSaver starting
-Application AttachmentSaver on node v0.6.14 available on ips[192.168.1.15] port 5000 saving to folder /home/foxyboy/Desktop.
-Message:scan_20120417_213037
-attachment: scan_20120417_213037.pdf
-end of message
-```
+Scan to email using the printer's panel as outlined in the manual essentially
+* Place your original on glass or in sheet feeder
+* navigate to Scan
+* press Start, Checkmark, Checkmark
+* If your original was on the glass, select More pages? No
 
 # That's all folks!
 
