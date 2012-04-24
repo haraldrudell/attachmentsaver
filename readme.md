@@ -49,4 +49,4 @@ Happiness!
 
 Written by Harald Rudell in April, 2012
 
-![Dell setup](./style/dell.png)
+![Dell setup](https://github.com/haraldrudell/attachmentsaver/raw/master/style/dell.png)
