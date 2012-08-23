@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/haraldrudell/attachmentsaver.png)](http://travis-ci.org/haraldrudell/attachmentsaver)
 # AttachmentSaver
 
 This app saves pdf attachments to the Desktop.
